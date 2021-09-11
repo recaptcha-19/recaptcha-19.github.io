@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rahul Priyadarshan"
+title                    : "Rahul Priyadarshan R"
 title_separator          : "-"
-name                     : &name "Rahul Priyadarshan"
+name                     : &name "Rahul Priyadarshan R"
 description              : &description "personal description"
 url                      : https://recaptcha-19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
