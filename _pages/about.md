@@ -16,5 +16,5 @@ I am currently working on my final year project with [Prof. Sriramkumar](https:/
 
 This summer, I worked with [Prof. Divya Oberoi](http://www.ncra.tifr.res.in/~div/index.html) at the [National Centre for Radio Astrophysics (NCRA-TIFR)](http://www.ncra.tifr.res.in/ncra/main) on using Total Electron Content measurements from GPS receivers and International Reference Ionosphere (IRI) to describe the ionosphere around the GMRT. 
 
-You can find more details about these projects here. 
+You can find more details about these projects [here](https://recaptcha-19.github.io/research/). 
 

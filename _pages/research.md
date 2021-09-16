@@ -15,6 +15,8 @@ Current work in the project is on generating a highly efficient code to compute 
 
 ## Exploring the ionosphere around GMRT using IRI and GPS data
 
+(You can view a seminar I gave about my project [here](https://drive.google.com/file/d/1n7ZZx6AhRGx-d7pzENbgPz8VhksvBh0f/view?usp=sharing))
+ 
 The ionosphere is a dispersive medium which causes effects such as propagation delay and Faraday rotation in radio waves. These effects become important to correct for when carrying out observational studies of astronomical objects in the radio regime. The [International Reference Ionosphere (IRI)](http://irimodel.org/) is a globally accepted model which predicts diurnal and seasonal variations of physical observables associated with the ionosphere. However, the IRI doesn't take into account a geomagnetic effect known as the equatorial anomaly and thus, is not expected to give highly accurate predictions for equatorial regions.
 
 This project carries out a comparative study of predictions given by IRI and measurements of Total Electron Content (TEC) from data obtained from GPS receivers. It is seen that the IRI underpredicts vertical TEC for the entire dataset (spanning from September 2017 to December 2018). Codes for generating related plots and visualizations can be found [here](https://github.com/recaptcha-19/Ionospheric-structures). Further scope involves better calibration of data and expanding the dataset to include more years. 
